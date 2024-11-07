@@ -18,7 +18,6 @@ All analyses are stored under the `notebooks` folder.
 
 - `figure-analysis` - notebooks to reproduce figures and supplementary figures in the manuscript
 - `subcellular-classifier/` - training and evaluating localization pattern classifiers (RNAforest)
-- `data-ingestion/` - data preprocessing/formatting for downstream analysis with `bento-tools`
 
 
 ## `data`
