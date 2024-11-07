@@ -1,0 +1,19 @@
+torchinfo
+dill
+nbformat==4.2.0
+optuna==2.10.0
+leidenalg
+hmr 
+plotly
+torch torchvision
+skimage
+scikit-image
+fastdis
+ClusterMap
+cellpose
+opencv-python
+tifffile
+alphashape
+statannotations 
+
+
